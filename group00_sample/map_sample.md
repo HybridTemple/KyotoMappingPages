@@ -1,0 +1,1 @@
+<iframe src="https://hybridtemple.github.io/KyotoMappingPages/group00_sample/KYOTO_Design_Lab.html" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="eager" referrerpolicy="no-referrer-when-downgrade"></iframe>
