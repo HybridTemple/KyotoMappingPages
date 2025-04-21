@@ -1,1 +1,1 @@
-<iframe src="https://hybridtemple.github.io/KyotoMappingPages/groupXX/XXXX.html" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="eager" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://hybridtemple.github.io/KyotoMappingPages/group06/ginnkaku-jiTemple.html" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="eager" referrerpolicy="no-referrer-when-downgrade"></iframe>
