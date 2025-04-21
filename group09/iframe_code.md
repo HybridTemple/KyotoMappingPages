@@ -1,1 +1,1 @@
-<iframe src="https://hybridtemple.github.io/KyotoMappingPages/group09/group9_map.html" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="eager" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://hybridtemple.github.io/KyotoMappingPages/group09/group09_map.html" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="eager" referrerpolicy="no-referrer-when-downgrade"></iframe>
